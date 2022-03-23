@@ -1,0 +1,16 @@
+{
+  "name": "bot discord v12.16.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leonardo Carvalho",
+  "license": "ISC"
+}
